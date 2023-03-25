@@ -47,7 +47,7 @@
     "react-native-screens": "^3.19.0",
     "react-native-status-bar-height": "^2.4.0",
     "react-native-svg": "^13.7.0",
-    "react-native-web": "^0.14.7"
+    "react-native-web": "^0.18.12"
   },
   "devDependencies": {
     "@babel/core": "^7.20.0",
