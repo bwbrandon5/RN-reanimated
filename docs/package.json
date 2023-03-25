@@ -20,7 +20,7 @@
     "@docusaurus/preset-classic": "^2.3.1",
     "@docusaurus/theme-classic": "^2.3.1",
     "@mdx-js/react": "^1.6.21",
-    "classnames": "^2.3.1",
+    "classnames": "^2.3.2",
     "clsx": "^1.1.1",
     "react": "^17.0.1",
     "react-colorful": "^5.6.1",
