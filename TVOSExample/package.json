@@ -14,7 +14,7 @@
     "@babel/plugin-proposal-export-namespace-from": "^7.17.12",
     "glob-to-regexp": "^0.4.1",
     "lodash.isequal": "^4.5.0",
-    "react": "18.0.0",
+    "react": "18.2.0",
     "react-native": "npm:react-native-tvos@0.69.5-2"
   },
   "devDependencies": {
